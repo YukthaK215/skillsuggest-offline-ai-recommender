@@ -1,0 +1,2 @@
+Skills: Python, Machine Learning, Data Analysis, SQL
+Experience: Internship in data science project

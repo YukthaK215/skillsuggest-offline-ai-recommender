@@ -1,0 +1,6 @@
+career,skills
+Data Scientist,python;machine learning;statistics;data visualization
+Web Developer,html;css;javascript;react
+AI Engineer,python;machine learning;deep learning;tensorflow
+Software Engineer,python;java;c++;data structures;algorithms
+
